@@ -4,9 +4,11 @@
 
 [Тест по ООП](https://forms.yandex.ru/u/5dea1734f198c03899a971bc/)
 
-[Тест по GIT](https://forms.yandex.ru/u/5dea35142c7b8b3a04dc7157/)
+[Тест по SQL](https://forms.yandex.ru/u/5dea6c2dbb57893d26b73b2f/)
 
 [Тест по Linux](https://forms.yandex.ru/u/5dea2e792c7b8b399edc7157/)
+
+[Тест по GIT](https://forms.yandex.ru/u/5dea35142c7b8b3a04dc7157/)
 
 ## C++:
 [Тест по С++](https://forms.yandex.ru/u/5dea38d2f198c03aaca971bc/)
